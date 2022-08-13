@@ -14,5 +14,5 @@ I'm a Software Engineer, and Computer Engineering student. I'm passionate about 
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=2bit2bit&show_icons=true&include_all_commits=true&hide_border=true" alt="Ephraims's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Ephraim's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=2bit2bit&show_icons=true&include_all_commits=true&hide_border=true" alt="Ephraims's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2bit2bit&langs_count=8&layout=compact&hide_border=true" alt="Ephraim's GitHub stats" /> |
 | ------------- | ------------- |
