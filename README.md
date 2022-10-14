@@ -1,7 +1,8 @@
 # Hello there; welcome 👋🏾
-[![Twitter Badge](https://img.shields.io/badge/-@2bi2bit-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/2bit2bit)](https://twitter.com/2bit2bit)
+[![Twitter Badge](https://img.shields.io/badge/-@2bi2bit-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/2bit2bit)](https://twitter.com/2bit2bit)[![Linkedin Badge](https://img.shields.io/badge/-Ephraim-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ephraim-haruna-a52b71209/)](https://www.linkedin.com/in/ephraim-haruna-a52b71209/)
 
-I'm a Software Engineer, and Computer Engineering student. I'm passionate about sharing knowledge, documentation, web engineering, AWS, and others. 
+I'm a Backend and cloud developer. I'm passionate about sharing knowledge, documentation.
+Have worked with Nodejs, AWS, Docker among others
 
 **Here's a quick summary about me**:
 
